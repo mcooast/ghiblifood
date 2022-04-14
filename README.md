@@ -1,4 +1,4 @@
-<h2>Responsive Cards</h2>
+<h2>Responsive Cards</h2
 
 Slides using HTML and CSS.
 This project was made based on a tutorial on Youtube: https://youtu.be/zxqGOgsgUtk.
