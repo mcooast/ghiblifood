@@ -1,4 +1,4 @@
-Responsive Cards
+<h2>Responsive Cards</h2>
 <hr>
 
 Slides using HTML and CSS.
