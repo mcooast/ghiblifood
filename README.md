@@ -8,5 +8,5 @@ Final result - Web version:
 
 <br>
 <div align="center">
-<img src="" width="900px"/>
+<img src="https://user-images.githubusercontent.com/87499710/163290589-aa2cdbf9-ea99-4845-9396-8d113d73a2f3.gif" width="900px"/>
 </div>
